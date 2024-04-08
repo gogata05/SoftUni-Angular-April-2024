@@ -2,7 +2,7 @@
   
 ### 📚 SoftUni-Angular-February-2024
 
-### 🎓 Project Defence Link - [Here](https://github.com/gogata05/SpaceTravel-Angular-Project-001)
+### 📚 Project Defence Link - [Here](https://github.com/gogata05/SpaceTravel-Angular-Project-001)
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4363/angular-february-2024)
 
