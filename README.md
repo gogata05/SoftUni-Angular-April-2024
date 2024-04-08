@@ -1,4 +1,4 @@
-<img src="https://imgur.com/F49Neyl" alt="Certificate"/>
+<img src="https://imgur.com/F49Neyl.png" alt="Certificate"/>
   
 ### 📚 SoftUni-Angular-February-2024
 
@@ -21,4 +21,4 @@ The "Angular" course will provide students with knowledge and practical skills f
 
 ### Certificate
 
-![Certificate](https://imgur.com/F49Neyl)
+![Certificate](https://imgur.com/F49Neyl.png)
