@@ -2,6 +2,8 @@
   
 ### 📚 SoftUni-Angular-February-2024
 
+### 🎓 Project Defence Link - [Here](https://github.com/gogata05/SpaceTravel-Angular-Project-001)
+
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4363/angular-february-2024)
 
 Welcome to the Angular course! This course will equip participants with the knowledge and skills required to work with Angular applications. Throughout this course, you will delve into various aspects of web development,components,routing,modules,forms,pipes and more.
